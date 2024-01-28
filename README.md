@@ -21,7 +21,7 @@ Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
 ### Các thành viên của nhóm:
 Họ tên | MSSV | Email | GitHub
 --- | --- | -- | --
-Lê Đăng Khoa (Trưởng nhóm) | 21522222 | 21522222@gm.uit.edu.vn | https://github.com/EpicVN
+Lê Đăng Khoa | 21522222 | 21522222@gm.uit.edu.vn | https://github.com/EpicVN
 Phạm Quốc Anh Khoa | 21520296 | 21520296@gm.uit.deu.vn | 
 Huỳnh Nhật Hòa | 21520860 | 21520860@gm.uit.edu.vn | 
 
